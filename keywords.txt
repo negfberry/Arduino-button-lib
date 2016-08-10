@@ -1,0 +1,4 @@
+ButtonCtl	KEYWORD1
+read	KEYWORD1
+time	KEYWORD1
+timeup	KEYWORD1
